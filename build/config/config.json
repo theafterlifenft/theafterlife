@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCfF2487556275e81f8724Aa25cCb87a348362EDE",
+  "SCAN_LINK": "https://etherscan.io/address/0xCfF2487556275e81f8724Aa25cCb87a348362EDE#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The Afterlife",
+  "SYMBOL": "TA",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 55500000000000000,
+  "DISPLAY_COST": 0.0555,
+  "GAS_LIMIT": 15000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theafterlifenft",
+  "SHOW_BACKGROUND": true
+}
